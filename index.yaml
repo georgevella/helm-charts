@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  shipbot:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2020-10-06T18:08:02.426847626+02:00"
+    dependencies:
+    - name: postgresql
+      repository: https://charts.bitnami.com/bitnami
+      version: 9.4.1
+    description: A Helm chart for Kubernetes
+    digest: 87145d348b18df2d4849abff85a6b6058df965196b2200fd0601bdcdc4707a11
+    name: shipbot
+    urls:
+    - shipbot-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-10-06T18:08:02.421968894+02:00"
